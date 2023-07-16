@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fashion-blog/static/css/main.be236613.css",
+    "main.css": "/fashion-blog/static/css/main.5703d017.css",
     "main.js": "/fashion-blog/static/js/main.96627ce9.js",
     "static/js/787.be7004e8.chunk.js": "/fashion-blog/static/js/787.be7004e8.chunk.js",
     "static/media/logo.svg": "/fashion-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/fashion-blog/index.html",
-    "main.be236613.css.map": "/fashion-blog/static/css/main.be236613.css.map",
+    "main.5703d017.css.map": "/fashion-blog/static/css/main.5703d017.css.map",
     "main.96627ce9.js.map": "/fashion-blog/static/js/main.96627ce9.js.map",
     "787.be7004e8.chunk.js.map": "/fashion-blog/static/js/787.be7004e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be236613.css",
+    "static/css/main.5703d017.css",
     "static/js/main.96627ce9.js"
   ]
 }
