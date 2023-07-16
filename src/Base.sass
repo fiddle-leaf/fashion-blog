@@ -1,0 +1,115 @@
+$bit: 1em
+$fontSrc: '/src/fonts/DM_Sans/'
+$lightgray: hsl(0, 0%, 70%)
+$tomato: hsl(5, 95%, 50%)
+$border: 5px solid $lightgray
+$font: 'DM Sans', sans-serif
+
+@mixin reset
+    padding-inline: 0
+    padding-block: 0
+    margin-inline: 0
+    margin-block: 0
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+
+
+html
+    border-left: $border
+
+    *
+        @include reset
+        
+
+.flex
+    display: flex
+
+body,
+nav>ul,
+section.posts
+    @extend .flex
+
+body,
+section.posts,
+section.posts>article
+    flex-flow: column nowrap
+
+body
+    min-height: 100vh
+    max-width: 1000px
+    margin: 0 auto
+    line-height: 175%
+
+    font:
+        family: $font
+        size: $bit
+
+    img
+        width: 100%
+        height: auto
+
+main.page
+    flex: 1
+
+    section.posts
+        article
+            @extend .flex
+            margin-block-end: 4rem
+            padding-block-end: 2rem
+            border-bottom: $border
+            gap: 0.5em
+            
+            h3
+                font:
+                    size: 1.8rem
+                    weight: 600
+
+                line-height: 185%
+
+            p::first-letter
+                color: $lightgray
+                font-size: 4rem
+                line-height: 1rem
+                padding: 2rem 1.5rem
+                float: left
+
+header
+    h1  
+        padding-block-start: 2em
+        font:
+            weight: 400
+            size: 2.5em
+
+    h2  
+        padding-block: 2em
+        font:
+            weight: 800
+            size: 2.0em
+
+header,
+footer
+    flex: 0
+
+header,
+main.page,
+footer
+    padding: 1rem 2rem
+
+
+nav>ul
+    list-style: none
+    flex-flow: row wrap
+    justify-content: space-between
+
+nav>ul>li>a
+    color: $lightgray
+    padding: $bit 0.5em
+
+header>h1,
+footer>nav>ul>li>a,
+span.continue>a
+    color: $tomato
+
+span.continue
+    float: right
