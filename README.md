@@ -11,4 +11,4 @@ Static fashion blog page using React.js components
 - [React.js](https://react.dev/learn/thinking-in-react) components embedded with HTML elements using [Sass](https://sass-lang.com/) compiled to App.css for styling.
 
 # credits
--  Photos by [Kevin laminto](https://unsplash.com/@kxvn_lx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/0ZPlUMo2lis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+-  Photos by [Kevin Laminto](https://unsplash.com/@kxvn_lx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/0ZPlUMo2lis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
