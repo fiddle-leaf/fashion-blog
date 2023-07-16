@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.be236613.css",
-    "main.js": "/static/js/main.90b8b793.js",
-    "static/js/787.be7004e8.chunk.js": "/static/js/787.be7004e8.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.be236613.css.map": "/static/css/main.be236613.css.map",
-    "main.90b8b793.js.map": "/static/js/main.90b8b793.js.map",
-    "787.be7004e8.chunk.js.map": "/static/js/787.be7004e8.chunk.js.map"
+    "main.css": "/fiddle-leaf.github.io/fashion-blog/static/css/main.be236613.css",
+    "main.js": "/fiddle-leaf.github.io/fashion-blog/static/js/main.d92f221a.js",
+    "static/js/787.be7004e8.chunk.js": "/fiddle-leaf.github.io/fashion-blog/static/js/787.be7004e8.chunk.js",
+    "static/media/logo.svg": "/fiddle-leaf.github.io/fashion-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fiddle-leaf.github.io/fashion-blog/index.html",
+    "main.be236613.css.map": "/fiddle-leaf.github.io/fashion-blog/static/css/main.be236613.css.map",
+    "main.d92f221a.js.map": "/fiddle-leaf.github.io/fashion-blog/static/js/main.d92f221a.js.map",
+    "787.be7004e8.chunk.js.map": "/fiddle-leaf.github.io/fashion-blog/static/js/787.be7004e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be236613.css",
-    "static/js/main.90b8b793.js"
+    "static/js/main.d92f221a.js"
   ]
 }
